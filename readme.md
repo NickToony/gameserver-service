@@ -1,6 +1,9 @@
 Game Server Service
 ===================
 
+<img src="https://github.com/NickToony/gameserver-service/blob/master/screenshots/screenshot-dashboard.png" width="50%"/>
+<img src="https://github.com/NickToony/gameserver-service/blob/master/screenshots/screenshot-manage.png" width="50%"/>
+
 About
 -----
 This is a simple project combining Laravel and Bootstrap to provide a game server list service. It provides a responsive front-end for managing games and servers, while providing a JSON service for clients to access.
