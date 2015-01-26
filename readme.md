@@ -25,7 +25,7 @@ These instructions are not complete. They should be updated soon.
 
  1. Clone the repository, set webserver root to /public, etc . Instructions vary depending on your server setup.
  2. Run the following commands to setup dependencies for Laravel and Bootstrap
-	 - composer update
-	 - bower update
-	 - php artisan migrate
-3. This will install laravel, bootstrap and jQuery, and then create the database.
+	`composer update`
+	`bower update`
+	`php artisan migrate`
+ 3. This will install laravel, bootstrap and jQuery, and then create the database.
