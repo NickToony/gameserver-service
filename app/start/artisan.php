@@ -12,3 +12,4 @@
 */
 
 Artisan::add(new RemoveOldServers());
+Artisan::add(new UpdateStatistics());
