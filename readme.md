@@ -5,7 +5,7 @@ About
 -----
 This is a simple project combining Laravel and Bootstrap to provide a game server list service. It provides a responsive front-end for managing games and servers, while providing a JSON service for clients to access.
 
-Server Dependencies
+Dependencies
 ----
 
 **For usage**
