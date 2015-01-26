@@ -1,8 +1,8 @@
 Game Server Service
 ===================
 
-<img src="https://github.com/NickToony/gameserver-service/blob/master/screenshots/screenshot-dashboard.png" width="50%"/>
-<img src="https://github.com/NickToony/gameserver-service/blob/master/screenshots/screenshot-manage.png" width="50%"/>
+<img src="https://github.com/NickToony/gameserver-service/blob/master/screenshots/screenshot-dashboard.png" width="40%"/>
+<img src="https://github.com/NickToony/gameserver-service/blob/master/screenshots/screenshot-manage.png" width="42%"/>
 
 About
 -----
