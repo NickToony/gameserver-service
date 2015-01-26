@@ -1,0 +1,10 @@
+.table tbody>tr>td {
+	vertical-align: middle;
+}
+.vertical-align {
+	display: flex;
+	align-items: center;
+}
+.no-margin {
+	margin: 0;
+}
