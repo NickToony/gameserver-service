@@ -29,3 +29,10 @@ These instructions are not complete. They should be updated soon.
 	- `bower update`
 	- `php artisan migrate`
  3. This will install laravel, bootstrap and jQuery, and then create the database.
+
+Planned Features
+------------
+- Have server's meta data displayed on front-end server list
+- Better statistic tracking, including uptime and such
+- Graphical view of statistics
+
