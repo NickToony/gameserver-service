@@ -98,6 +98,7 @@ class APIController extends BaseController {
 		$server->current_players = Input::get('current_players');
 		$server->max_players = Input::get('max_players');
 		$server->meta = Input::except("current_players", "max_players", "name", "password");
+		$server->touch();
 
 		$server->update();
 
