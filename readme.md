@@ -1,3 +1,5 @@
+**NOTE**: This project is archived. I have began a re-implementation here: https://github.com/NickToony/gameserver-service2
+
 Game Server Service
 ===================
 
